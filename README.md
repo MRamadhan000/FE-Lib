@@ -70,7 +70,7 @@ Ikuti langkah berikut untuk menjalankan project secara lokal:
 https://github.com/MRamadhan000/FE-Lib.git
 ```
 ```bash
-cd lib-aspire
+cd FE-Lib
 ```
 
 ### 2. Clone Repository
