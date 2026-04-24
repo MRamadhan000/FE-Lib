@@ -61,7 +61,8 @@ Ikuti langkah berikut untuk menjalankan project secara lokal:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/lib-aspire.git
+[git clone https://github.com/username/lib-aspire.git
+](https://github.com/MRamadhan000/FE-Lib.git)
 ```
 ```bash
 cd lib-aspire
