@@ -63,11 +63,13 @@ Ikuti langkah berikut untuk menjalankan project secara lokal:
 ```bash
 git clone https://github.com/username/lib-aspire.git
 cd lib-aspire
-
+```
 
 ### 2. Clone Repository
 
+```bash
 npm install
+```
 
 
 ### 3. Setup Environment
@@ -76,8 +78,11 @@ Rename file:
 
 menjadi:
     .env.local
-
+    
 Lalu sesuaikan konfigurasi (misalnya API URL).
 
+
 ### 5. Run Project
+```bash
 npm run dev
+```
