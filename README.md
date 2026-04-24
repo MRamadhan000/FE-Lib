@@ -43,6 +43,12 @@ Project ini dibuat sebagai implementasi **CRUD (Create, Read, Update, Delete)** 
 
 ### Admin Page
 ![alt text](image-3.png)
+
+![alt text](image-4.png)
+
+![alt text](image-5.png)
+
+![alt text](image-6.png)
 ---
 
 ## ⚙️ Tech Stack
